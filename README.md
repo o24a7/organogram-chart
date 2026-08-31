@@ -1,7 +1,6 @@
 # Organogram Generator
 
 A lightweight, browser-based tool for turning a structured organisational template into an editable organogram. It is designed for professional tender, donor, government, NGO, and procurement submissions.
-<img width="2000" height="1354" alt="organogram (2)" src="https://github.com/user-attachments/assets/a888eeba-97a3-4416-b24f-15b6612059ae" />
 
 ## Start using it
 
@@ -20,7 +19,7 @@ ORGANOGRAM TITLE:
 Contract Management and Supervisory Structure
 
 LEVEL 1:
-GardaWorld Operations Management
+Texco Operations Management
 
 LEVEL 2:
 Supervisor / Senior Security Officer
@@ -37,10 +36,10 @@ SUPPORT FUNCTIONS:
 Programme Focal Point
 
 LOCATIONS:
-Palladium LAFIYA Programme Office, Borno
+APex Height Programme Office, Borno
 
 RELATIONSHIPS:
-GardaWorld Operations Management -> Supervisor / Senior Security Officer
+Texco Operations Management -> Supervisor / Senior Security Officer
 Supervisor / Senior Security Officer -> Static Security Guard 1
 Supervisor / Senior Security Officer -> Static Security Guard 2
 Supervisor / Senior Security Officer --DOTTED-> Relief Guard (1)
