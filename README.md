@@ -4,7 +4,7 @@ A lightweight, browser-based tool for turning a structured organisational templa
 
 ## Start using it
 
-1. Open `organogram-generator.html` in a web browser, or visit the deployed Cloudflare link.
+1. Open `organogram-generator.html` in a web browser, or visit the deployed Cloudflare link: https://morning-forest-91d1.onyekachi24anyaegbu.workers.dev/
 2. Paste or edit the structured template in the left-hand panel.
 3. Select **Generate organogram**.
 4. Edit the chart as needed.
