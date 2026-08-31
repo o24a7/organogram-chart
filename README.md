@@ -1,6 +1,7 @@
 # Organogram Generator
 
 A lightweight, browser-based tool for turning a structured organisational template into an editable organogram. It is designed for professional tender, donor, government, NGO, and procurement submissions.
+<img width="2000" height="1354" alt="organogram (2)" src="https://github.com/user-attachments/assets/a888eeba-97a3-4416-b24f-15b6612059ae" />
 
 ## Start using it
 
